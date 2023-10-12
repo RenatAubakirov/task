@@ -1,0 +1,15 @@
+D:\project_git\lesson30092003\task41D\bin\Debug\net6.0\task41D.exe
+D:\project_git\lesson30092003\task41D\bin\Debug\net6.0\task41D.deps.json
+D:\project_git\lesson30092003\task41D\bin\Debug\net6.0\task41D.runtimeconfig.json
+D:\project_git\lesson30092003\task41D\bin\Debug\net6.0\task41D.dll
+D:\project_git\lesson30092003\task41D\bin\Debug\net6.0\task41D.pdb
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\task41D.csproj.AssemblyReference.cache
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\task41D.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\task41D.AssemblyInfoInputs.cache
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\task41D.AssemblyInfo.cs
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\task41D.csproj.CoreCompileInputs.cache
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\task41D.dll
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\refint\task41D.dll
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\task41D.pdb
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\task41D.genruntimeconfig.cache
+D:\project_git\lesson30092003\task41D\obj\Debug\net6.0\ref\task41D.dll
